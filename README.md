@@ -1,2 +1,5 @@
-# makkawi-site
-Compiled deployment assets for Mohammed Makkawi’s professional platform.
+# Mohammed Makkawi - Published Site
+
+This public repository contains compiled deployment assets only.
+
+Source code is maintained separately in a private repository.
